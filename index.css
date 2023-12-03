@@ -1,0 +1,25 @@
+*{
+	height: 100%;
+	width: 100%;
+	background: lightblue;
+}
+section#mega{
+	
+}
+section.wrapper div{
+	height: 1080px	;
+	width: 1250px;
+}
+section.wrapper div h1{
+	display: flex;
+	justify-content: center;
+	padding: 10px;
+	font-size: 44px;
+	color: white;
+}
+section.wrapper div p{
+	display: block;
+	margin: 0 auto;
+	margin-top: -960px;
+	padding: 30px;
+}
